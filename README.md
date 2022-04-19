@@ -5,8 +5,4 @@ Repositório de Dashboards feitas em Power BI.
 
 Que bom poder compartilhar este projeto! Este é um repositório com uma analise realizadas por mim na disciplina de Business Inteligence do mestrado que estou realizando. 
 
-Projetos
-Dashboard de Vendas
-Vendas - Sales Enterprise
-Operadora de Plano de Saúde
-[Projeto Power BI - pdf.pdf](https://github.com/Fabiolasq/Power-BI---Analise-Inadimplencia/files/8508859/Projeto.Power.BI.-.pdf.pdf)
+![image](https://user-images.githubusercontent.com/96588272/163898020-a8519701-6933-44ed-a584-7cdd3f7d51f8.png)
