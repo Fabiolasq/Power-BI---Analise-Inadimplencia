@@ -9,3 +9,4 @@ Projetos
 Dashboard de Vendas
 Vendas - Sales Enterprise
 Operadora de Plano de Saúde
+[Projeto Power BI - pdf.pdf](https://github.com/Fabiolasq/Power-BI---Analise-Inadimplencia/files/8508859/Projeto.Power.BI.-.pdf.pdf)
